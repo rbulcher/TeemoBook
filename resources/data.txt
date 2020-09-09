@@ -1,0 +1,77 @@
+Champion,Rune 1v1,Rune vs Burst JG,Runes vs MS JG,Celerity vs Absolute F,Boots,1st Core item,Optional item,Summoner Spells,Spell Upgrade Order,Gameplay,Difficulty
+Aatrox,PTA & Dom,HoB & Res,PR & Dom,C,Swiftness,Nashor's Tooth,Armguard,Teleport,,,Hard
+Akali,E & Res,E & Res,PR & Dom,A,Sorcerer's,Gunblade / Liandry,Null-Magic Mantle,Ignite,,,Decent
+Annie,SA & Dom,GoU & Dom,PR & Dom,A,Mercury's,Liandry,Null-Magic Mantle,Teleport,Q 1st up to 3rd lvl,,Very Hard
+Camille,HoB & Pre,E & Res,PR & Dom,C,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Okay
+Cassiopeia,E & Pres,E & Res,PR & Dom,C,Swiftness / Berserk,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Dodge
+Cho'Gath,PTA & Dom,HoB & Res,PR & Dom,C,Berserker's / Swift,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Okay
+Darius,PR & Dom,PR & Dom,PR & Dom,C,Swiftness,Nashor's Tooth,,Ghost,W 2nd Max,https://www.youtube.com/watch?v=xbCxDLy-QLw,Okay
+Diana,PTA & Dom,E & Res,PR & Dom,A,Berserker's,Nashor's Tooth,Null-Magic Mantle,Teleport,,https://www.youtube.com/watch?v=TonhTv4ZI6o,Hard
+Dr. Mundo,PTA & Dom,HoB & Res,PR & Dom,C,Berserker's,Nashor's Tooth,Morellonomicon,Teleport,,,Okay
+Ekko,HoB & Pre,E & Res,PR & Dom,A,Berserker's,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Okay
+Fiora,HoB & Pre,E & Res,PR & Dom,C,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Decent
+Fizz,HoB & Res,E & Res,PR & Dom,A,Berserk's / Sorcerer's,Liandry,Null-Magic Mantle,Teleport,,,Hard
+Galio,Hob & Res,E & Res,PR & Dom,C,Mercury's,Nashor's Tooth / Liandry,Null-Magic Mantle,Teleport,,,Decent
+Gangplank,GoU & Dom,GoU & Dom,PR & Dom,C,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Okay
+Garen,HoB & Pre,E & Res,PR & Dom,C,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Easy
+Gnar,E & Pres,E & Res,PR & Dom,C,Ninja Tabi,Nashor's Tooth,,Teleport,,,Okay
+Gragas,E & Res,GoU & Dom,PR & Dom,C,Berserker's / Swiftness,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Decent
+Hecarim,PR & Dom,PR & Dom,PR & Dom,C,Ninja Tabi,Liandry's / Nashor's Tooth,Armguard,Ghost,,,Decent
+Heimerdinger,FF & Dom,E & Res,PR & Dom,C,Mercury's,Nashor's Tooth / Gunblade,Null-Magic Mantle,Teleport,,,Very Hard
+Illaoi,PTA & Dom,HoB & Res,PR & Dom,C,Berserker's / Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Okay
+Irelia,HoB & Res,HoB & Res,PR & Dom,C,Berserker's / Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Hard
+Jarvan IV,HoB & Res,E & Res,PR & Dom,C,Berserker's / Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Okay
+Jax,E & Res,E & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth / Gunblade,Armguard,Teleport,,,Okay
+Jayce,E & Res,E & Res,PR & Dom,,Berserker's / Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,https://www.youtube.com/watch?v=6mjQ1O-CPQk,Hard
+Karma,SA & Dom,E & Res,PR & Dom,,Swiftness,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Hard
+Karthus,SA & Dom,E & Res,PR & Dom,,Mercury's,Nashor's Tooth,Null-Magic Mantle,Ignite,,,Decent
+Kassadin,HoB & Res,E & Res,PR & Dom,,Berserker's,Wit's End,Null-Magic Mantle,Teleport,,,Okay
+Katarina,SA & Dom,E & Res,PR & Dom,,Berserker's / Sorcerer's,Gunblade,Null-Magic Mantle,Ignite,,,Hard
+Kayle,SA & Dom,E & Res,PR & Dom,,Berserker's,Nashor's Tooth,,Ignite,Q 1st up to 3rd lvl,,Easy
+Kennen,SA & Dom,E & Res,PR & Dom,,Mercury's,Nashor's Tooth,Null-Magic Mantle,Teleport,Q 1st up to 3rd lvl,,Okay
+Kled,PTA & Dom,HoB & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,Armguard,Ignite,,,Decent
+Lucian,E & Res,GoU & Dom,PR & Dom,,Ninja Tabi,Liandry / Gunblade,Armguard,Ignite,Q 1st up to 3rd lvl,,Decent
+Lissandra,SA & Dom,E & Res,PR & Dom,,Mercury's,Nashor's Tooth,Null-Magic Mantle,Ignite,,,Easy
+Malphite,GoU & Dom,GoU & Dom,PR & Dom,,Berserker's / Swiftness / Sorcerer's,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Easy - Med 3.5/10
+Malzahar,SA & Dom,HoB & Res,PR & Dom,,Mercury's,Nashor's Tooth,QSS,Teleport,,,Decent
+Maokai,PTA & Dom,HoB & Res,PR & Dom,,Mercury's,Nashor's Tooth,,Teleport,,,Okay
+Mordekaiser,PTA & Dom,HoB & Res,PR & Dom,,Berserker's,Nashor's Tooth,QSS,Teleport,,,Decent
+Morgana,E & Res,GoU & Dom,PR & Dom,,Mercury's / Swiftness / Berserker's,Nashor's Tooth,,Teleport,,,Okay
+Nasus,PR & Dom,PR & Dom,PR & Dom,,Mercury's,Nashor's Tooth / Gunblade,Null-Magic Mantle,Ghost,W 2nd max,https://www.youtube.com/watch?v=2BxOXY-_3S4,Okay
+Neeko,E & Res,E & Res,PR & Dom,,Mercury's,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Very Hard
+Olaf,PR & Dom,PR & Dom,PR & Dom,,Ninja Tabi / Swiftness,Nashor's Tooth,Armguard,Ghost,W 2nd max,,Hard
+Ornn,PTA & Dom,HoB & Res,PR & Dom,,Swiftness / Berserker's,Nashor's Tooth,,Teleport,,https://www.youtube.com/watch?v=03GdEofTiSE,Okay
+Pantheon,GoU & Dom,GoU & Dom,PR & Dom,,Ninja Tabi,Liandry,Armguard,Teleport,Q 1st up to 3rd lvl ?,,Hard
+Poppy,PTA & Dom,HoB & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,,Teleport,,https://www.youtube.com/watch?v=qtxFH0Jbp_k,Easy
+Pyke,HoB & Res,HoB & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,Armguard,Ignite,,,Okay
+Quinn,E & Res,E & Res,PR & Dom,,Ninja Tabi,Gunblade / Liandry,Armguard,Ignite,,,Okay
+Rammus,PTA & Dom,HoB & Res,PR & Dom,,Sorcerer's / Berserker's,Liandry,QSS,Ignite,,,Easy
+Renekton,HoB & Res,GoU & Dom,PR & Dom,,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Okay
+Rengar,GoU & Dom,GoU & Dom,PR & Dom,,Ninja Tabi,Morellonomicon,Armguard,Teleport,,,Hard
+Riven,E & Res,E & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Okay
+Rumble,E & Res,GoU & Dom,PR & Dom,,Swiftness / Berserker's,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Hard
+Ryze,SA & Dom,E & Res,PR & Dom,,Mercury's,Nashor's Tooth,Null-Magic Mantle,Teleport,,,Dodge
+Sett,PTA & Dom,HoB & Res,PR & Dom,,Ninja Tabi / Swiftness,Nashor's Tooth,,Teleport,W 2nd max,,Hard
+Shen,E & Res,GoU & Dom,PR & Dom,,Berserker's,Nashor's Tooth,,Teleport,,https://www.youtube.com/watch?v=OzflpaOheyU,Okay
+Singed,PR & Dom,PR & Dom,PR & Dom,,Swiftness,Nashor's Tooth,,Ghost,W 2nd max,https://www.youtube.com/watch?v=g5XfEbcUXj4,Free
+Sion,PTA & Dom,GoU & Dom,PR & Dom,,Swiftness,Nashor's Tooth,,Teleport,,,Decent
+Soraka,SA & Dom,GoU & Dom,PR & Dom,,Sorcerer's,Nashor's Tooth,,Teleport,,,Okay
+Skarner,HoB & Pres,E & Res,PR & Dom,,Swiftness / Berserker's / Sorcerer's,Nashor's Tooth,QSS,Teleport,,,Easy
+Swain,E & Res,GoU & Dom,PR & Dom,,Swiftness,Nashor's Tooth,Null-Magic Mantle,Ignite,,,Okay
+Sylas,HoB & Res,HoB & Res,PR & Dom,,Berserker's / Swift,Liandry or Nashor's,Null-Magic Mantle,Ignite,,,Hard
+Tahm Kench,PR & Dom,PR & Dom,PR & Dom,,Swiftness,Nashor's Tooth,,Ghost,W 2nd max,,Okay
+Talon,E & Res,E & Res,PR & Dom,,Ninja Tabi,Hourglass,Armguard,Ignite,,,Decent
+Taric,HoB & Pres,E & Res,PR & Dom,,,Morellonomicon,,Ignite,,,Easy
+Teemo,SA & Dom,GoU & Dom,PR & Dom,,Mercury's,Liandry,Null Magic Mantle / Negatron,Ignite,,,Dodge
+Trundle,PR & Dom,PR & Dom,PR & Dom,,Berserker's,Nashor's Tooth,,Ignite,,,Easy
+Tryndamere,PR & Dom,PR & Dom,PR & Dom,,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,W 2nd max,,Okay
+Udyr,HoB & Pres,E & Res,PR & Dom,,,Morellonomicon,,Teleport,W 2nd max,,Easy
+Urgot,SA & Dom,E & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Hard
+Vayne,E & Res,E & Res,PR & Dom,,Ninja Tabi / Sorcerer's,Liandry / Gunblade,Armguard,Ignite,,,Easy
+Viktor,HoB & Res,E & Res,PR & Dom,,Berserker's,Nashor's Tooth / Liandry,Null-Magic Mantle,Teleport,,,Very Hard
+Vladimir,E & Sorc,E & Res,PR & Dom,,Sorcerer's,Liandry / Gunblade,Null-Magic Mantle,Ignite,,,Decent
+Volibear,PTA & Dom,HoB & Res,PR & Dom,,Swiftness,Nashor's Tooth,,Teleport,W 2nd max,,Okay
+Wukong,E & Res,E & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,Armguard,Teleport,,,Hard
+Yasuo,E & Res,E & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,,Teleport,,,Decent
+Yorick,PTA & Dom,HoB & Res,PR & Dom,,Ninja Tabi,Nashor's Tooth,,Teleport,,,Hard
+Zed,E & Res,E & Res,PR & Dom,,Ninja Tabi,Hourglass,,Ignite,,,Decent
